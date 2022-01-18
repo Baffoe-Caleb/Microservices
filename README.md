@@ -10,6 +10,7 @@ To run the application, start both Customer microservice and Fraud microservices
 The logins of the application's database can be found in the application.yml file of the project.
 
 Docker Postgres Setup
+
 Open up your terminal and make sure you're in the project directory:
 
 docker compose up -d
